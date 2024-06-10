@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-26T16:20:26 IST" name="Default suite" finished-at="2023-10-26T16:20:44 IST" duration-ms="17893">
+    <groups>
+    </groups>
+    <test started-at="2023-10-26T16:20:26 IST" name="Default test" finished-at="2023-10-26T16:20:44 IST" duration-ms="17893">
+      <class name="learnAPI.Practice">
+        <test-method signature="addAssociate()[pri:1, instance:learnAPI.Practice@131774fe]" started-at="2023-10-26T16:20:26 IST" name="addAssociate" finished-at="2023-10-26T16:20:29 IST" duration-ms="3468" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addAssociate -->
+        <test-method signature="updateAssociate()[pri:2, instance:learnAPI.Practice@131774fe]" started-at="2023-10-26T16:20:29 IST" name="updateAssociate" finished-at="2023-10-26T16:20:37 IST" duration-ms="7459" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateAssociate -->
+        <test-method signature="getAssociate()[pri:3, instance:learnAPI.Practice@131774fe]" started-at="2023-10-26T16:20:37 IST" name="getAssociate" finished-at="2023-10-26T16:20:41 IST" duration-ms="3806" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAssociate -->
+        <test-method signature="deleteAssociate()[pri:4, instance:learnAPI.Practice@131774fe]" started-at="2023-10-26T16:20:41 IST" name="deleteAssociate" finished-at="2023-10-26T16:20:44 IST" duration-ms="3060" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteAssociate -->
+      </class> <!-- learnAPI.Practice -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
